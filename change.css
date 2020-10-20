@@ -569,3 +569,16 @@ li a{
 	.Inter_news ul li a{
 								background:#748fff;
 								}
+
+.jh_news ul li p{
+				font-size:1.2rem;
+				opacity:0.6;
+				}
+.Nal_news ul li p{
+				font-size:1.2rem;
+				opacity:0.6;
+				}
+.Inter_news ul li p{
+				font-size:1.2rem;
+				opacity:0.6;
+				}
