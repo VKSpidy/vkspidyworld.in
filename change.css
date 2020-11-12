@@ -228,7 +228,7 @@ border-radius:6%;
 .news_slide{
 				width:80vw;
 				height:30vh;
-				background-image:url('https://images1.livehindustan.com/uploadimage/library/2019/02/06/16_9/16_9_2/ziva_1549473096.jpg');
+				background-image:url('https://images.mid-day.com/images/2020/nov/ayur_l.jpg');
 				background-size:cover;
 				margin:2.6vw;
    background-repeat:no-repeat;
@@ -238,7 +238,7 @@ border-radius:6%;
 				}
 @-webkit-keyframes slide2{
 				0%{
-								background-image:url('https://images1.livehindustan.com/uploadimage/library/2019/02/06/16_9/16_9_2/ziva_1549473096.jpg');
+								background-image:url('https://images.mid-day.com/images/2020/nov/ayur_l.jpg');
 									background-size:cover;
    background-repeat:no-repeat;
 			}
