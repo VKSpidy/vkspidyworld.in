@@ -141,6 +141,7 @@ h1{
 				height:75vh;
 				font-size:2rem;
 				background-color:rgba(90,0,0,0.2);
+	backdrop-filter:blur(0.6rem); 
 				margin-left:2vw;
 				padding:20px;
 				text-align:center;
@@ -163,6 +164,7 @@ h1{
 				padding:20px;
 					overflow:auto;
 				background-color:rgba(0,90,0,0.2);
+	backdrop-filter:blur(0.6rem);
 				 margin-left:2vw;
 				 text-align:center;
 				border:5px double red;
@@ -184,6 +186,7 @@ h1{
 				padding:20px;
 					overflow:auto;
 				background-color:rgba(20,0,50,0.2);
+	backdrop-filter:blur(0.6rem);
 				margin-left:2vw;
 				text-align:center;
 				border:5px double red;
